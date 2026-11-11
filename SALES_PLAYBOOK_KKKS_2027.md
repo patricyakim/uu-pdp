@@ -14,7 +14,7 @@ Dokumen lain di repositori adalah bahan pendukung. Buka hanya jika membutuhkan d
 | Kelompok | Dokumen | Siapa yang perlu membaca | Kegunaan |
 |---|---|---|---|
 | **Bacaan utama sales** | **Sales Playbook KKKS 2027 (dokumen ini)** | Sales, Account Manager, Business Development | Ringkasan akun, strategi PDP, prioritas discovery, dan langkah komersial |
-| Bacaan pendukung sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Account Manager / Sales Lead | Universe akun, snapshot produksi, kerangka prioritisasi |
+| **Prioritas akun** | [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) | Sales Lead / Account Manager | Skor, cakupan bukti, dan urutan engagement KEI, Jadestone, Conrad/WNEL |\n| Bacaan pendukung sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Account Manager / Sales Lead | Universe akun, snapshot produksi, kerangka prioritisasi |
 | Bacaan pendukung sales | [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) | Account Manager | Ringkasan profil delapan akun dan tautan profil rinci |
 | Bacaan pendukung sales | [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md) | Account Manager saat menyiapkan engagement | Peta fungsi pembeli, jalur akses, dan pertanyaan discovery |
 | Bacaan pendukung sales | [KKKS Cybersecurity Opportunity Intelligence 2027](KKKS_Cybersecurity_Opportunity_Intelligence_2027.md) | Sales bersama Solution Architect | Bukti sinyal proyek/pengadaan dan status hipotesis peluang |
@@ -83,7 +83,7 @@ Urutan di bawah adalah urutan kerja dan strategi engagement awal, bukan ranking 
 | **Jadestone Energy (Lemang)** | Operator Lemang PSC; Akatara telah berproduksi dengan fasilitas pemrosesan gas | Data personel Akatara dan manpower contractor, data HSE, akses vendor, aliran data ke grup | H — discovery |
 | **Conrad Asia Energy / WNEL** | WNEL operator Duyung PSC/Mako; FID Maret 2026; first gas ditargetkan Q4 2027; lebih dari 90% capex contracts/LOA telah diterbitkan menurut laporan perusahaan | Data kru proyek/offshore, kontraktor MOPU/subsea/drilling, tata kelola data JV dan vendor, kesiapan operasi | H — project signal kuat, peluang PDP belum tervalidasi |
 
-### Prioritas engagement PDP yang disarankan
+### Prioritas engagement PDP yang disarankan\n\nUntuk perbandingan berbobot dan rencana engagement tiga akun fokus—KEI, Jadestone, dan Conrad/WNEL—gunakan [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md). Skor di matriks tersebut bersifat indikatif dan harus dibaca bersama cakupan bukti; bukan probabilitas kemenangan atau bukti kebutuhan pelanggan.
 
 1. **KEI:** pintu masuk praktis melalui proses tenaga kerja/vendor dan aktivitas proyek Rancak. Uji kebutuhan pengelolaan data kontraktor dan pihak ketiga.
 2. **Jadestone:** masuk melalui operasi Akatara, manpower services, HR/HSE, dan pengelolaan vendor. Uji bagaimana data pekerja dan kontraktor diproses oleh entitas lokal dan grup.
