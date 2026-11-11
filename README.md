@@ -10,7 +10,7 @@
 
 ### [Sales Playbook KKKS 2027](SALES_PLAYBOOK_KKKS_2027.md)
 
-Dokumen utama untuk Sales dan Account Manager. Berisi intisari delapan akun, klasifikasi bacaan sales dan bahan riset, strategi PDP khusus Kangean, Jadestone, dan Conrad/WNEL, pertanyaan discovery, panduan percakapan, kualifikasi peluang, serta rencana kerja 30 hari.
+Dokumen utama untuk Sales dan Account Manager. Berisi intisari delapan akun, strategi PDP khusus Kangean, Jadestone, dan Conrad/WNEL, pertanyaan discovery, panduan percakapan, kualifikasi peluang, serta rencana kerja 30 hari. Untuk prioritas tiga akun tersebut, gunakan [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md).
 
 Sales tidak perlu membaca seluruh dokumen di repositori untuk memulai engagement. Gunakan dokumen riset di bawah sebagai bahan pendalaman saat menyiapkan pertemuan, discovery, atau proposal.
 
@@ -19,7 +19,7 @@ Sales tidak perlu membaca seluruh dokumen di repositori untuk memulai engagement
 | Kategori | Dokumen | Pembaca utama | Fungsi |
 |---|---|---|---|
 | **Bacaan utama** | [Sales Playbook KKKS 2027](SALES_PLAYBOOK_KKKS_2027.md) | Sales / Account Manager | Titik awal dan ringkasan tindakan komersial |
-| Referensi sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Sales Lead / Account Manager | Universe akun, snapshot produksi, kerangka prioritisasi |
+| **Prioritas akun** | [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) | Sales Lead / Account Manager | Penilaian terarah KEI, Jadestone, dan Conrad/WNEL; skor, cakupan bukti, dan rencana engagement |\n| Referensi sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Sales Lead / Account Manager | Universe akun, snapshot produksi, kerangka prioritisasi |
 | Referensi sales | [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) | Account Manager | Ringkasan profil delapan akun |
 | Referensi sales | [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md) | Account Manager | Pemetaan fungsi pembeli dan jalur akses |
 | Referensi sales/presales | [KKKS Cybersecurity Opportunity Intelligence 2027](KKKS_Cybersecurity_Opportunity_Intelligence_2027.md) | Sales / Solution Architect | Bukti sinyal peluang dan status kualifikasi |
@@ -45,7 +45,7 @@ Repositori saat ini mencakup delapan akun:
 
 ## Indeks intelijen
 
-- [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — universe akun, indikator produksi minyak/gas, prioritas awal, kerangka penilaian, dan rencana riset.
+- [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) — matriks skor dan rencana engagement khusus KEI, Jadestone, dan Conrad/WNEL.\n- [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — universe akun, indikator produksi minyak/gas, prioritas awal, kerangka penilaian, dan rencana riset.
 - [Regulatory Intelligence Validation — UU PDP 2027](Regulatory_Intelligence_Validation_UU_PDP_2027.md) — UU PDP, putusan MK terkait, konteks sektor, validasi PP 33/2026, dan batasan klaim sales.
 - [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) — ringkasan profil dan tautan dokumen per akun.
 - [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md) — fungsi stakeholder, titik masuk, jalur pengadaan, dan pertanyaan discovery.
