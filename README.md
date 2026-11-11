@@ -510,3 +510,17 @@ Profil individual:
 - [Medco E&P Natuna](accounts/KKKS_Buying_Center_Medco_Natuna_2027.md)
 
 Pemetaan ini merupakan intelijen awal berbasis sumber publik. Jabatan tidak otomatis menunjukkan kewenangan anggaran atau keputusan cybersecurity; seluruh RACI dan jalur pengadaan harus divalidasi langsung.
+
+
+## Cybersecurity Opportunity Intelligence KKKS 2027
+
+Indeks peluang keamanan siber, IT/OT, dan UU PDP berdasarkan bukti pengadaan dan sinyal operasional publik: [KKKS Cybersecurity Opportunity Intelligence 2027](KKKS_Cybersecurity_Opportunity_Intelligence_2027.md).
+
+Profil peluang per akun:
+- [Pertamina Hulu Rokan](accounts/KKKS_Opportunity_Intelligence_Pertamina_Hulu_Rokan_2027.md)
+- [ExxonMobil Cepu](accounts/KKKS_Opportunity_Intelligence_ExxonMobil_Cepu_2027.md)
+- [Pertamina EP](accounts/KKKS_Opportunity_Intelligence_Pertamina_EP_2027.md)
+- [PetroChina International Jabung](accounts/KKKS_Opportunity_Intelligence_PetroChina_Jabung_2027.md)
+- [Medco E&P Natuna](accounts/KKKS_Opportunity_Intelligence_Medco_Natuna_2027.md)
+
+Peluang diklasifikasikan sebagai sinyal pengadaan (E1), sinyal organisasi/operasi (E2), hipotesis (H), atau peluang tervalidasi (Q). Tender fisik dan operasional tidak dikategorikan sebagai tender cybersecurity. Nilai anggaran dan probabilitas kemenangan tidak dibuat tanpa bukti.
