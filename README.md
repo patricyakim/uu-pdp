@@ -496,3 +496,17 @@ Profil individual:
 - [Medco E&P Natuna](accounts/KKKS_Account_Profile_Medco_Natuna.md)
 
 Profil ini merupakan intelijen awal berbasis sumber publik per 11 November 2026. Hipotesis peluang keamanan siber dan UU PDP wajib divalidasi melalui discovery; dokumen tidak menyimpulkan adanya kelemahan, insiden, anggaran, atau tender keamanan tanpa bukti.
+
+
+## Buying-center intelligence KKKS 2027
+
+Indeks pemetaan stakeholder, struktur keputusan, jalur vendor, dan pertanyaan discovery untuk lima akun prioritas: [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md).
+
+Profil individual:
+- [Pertamina Hulu Rokan](accounts/KKKS_Buying_Center_Pertamina_Hulu_Rokan_2027.md)
+- [ExxonMobil Cepu](accounts/KKKS_Buying_Center_ExxonMobil_Cepu_2027.md)
+- [Pertamina EP](accounts/KKKS_Buying_Center_Pertamina_EP_2027.md)
+- [PetroChina International Jabung](accounts/KKKS_Buying_Center_PetroChina_Jabung_2027.md)
+- [Medco E&P Natuna](accounts/KKKS_Buying_Center_Medco_Natuna_2027.md)
+
+Pemetaan ini merupakan intelijen awal berbasis sumber publik. Jabatan tidak otomatis menunjukkan kewenangan anggaran atau keputusan cybersecurity; seluruh RACI dan jalur pengadaan harus divalidasi langsung.
