@@ -97,3 +97,14 @@ Pada batas riset ini, Medco E&P Indonesia ICS assessment dan Medco E&P Natuna de
 - [S7] PetroChina Indonesia, About Us: https://www.petrochina.co.id/about-us
 
 **Batasan:** sumber tender dari agregator perlu dikonfirmasi melalui CIVD/e-Proc resmi. Informasi tender bukan bukti award atau status proyek. Tidak ada nilai anggaran cybersecurity atau probabilitas kemenangan yang dibuat tanpa bukti.
+
+
+## Tambahan akun
+
+| Akun | Sinyal publik | Status intelijen | Profil |
+|---|---|---|---|
+| Kangean Energy Indonesia Ltd. | Proyek Rancak dan prakualifikasi dukungan tenaga kerja; tidak ditemukan tender cyber spesifik | H — discovery required | [Peluang KEI](accounts/KKKS_Opportunity_Intelligence_Kangean_Energy_2027.md) |
+| Jadestone Energy (Lemang) Pte. Ltd. | Akatara beroperasi; prakualifikasi manpower; tidak ditemukan tender cyber spesifik | H — discovery required | [Peluang Jadestone](accounts/KKKS_Opportunity_Intelligence_Jadestone_Energy_2027.md) |
+| Conrad Asia Energy / WNEL | Mako FID dan development menuju first gas Q4 2027; >90% capex contracts/LOA diterbitkan | E2 — project signal; cyber opportunity remains H | [Peluang Conrad/WNEL](accounts/KKKS_Opportunity_Intelligence_Conrad_Energy_2027.md) |
+
+**Catatan:** ketiga akun baru belum memiliki tender cybersecurity yang teridentifikasi dalam riset ini. Aktivitas proyek dan pengadaan manpower bukan tender cybersecurity.
