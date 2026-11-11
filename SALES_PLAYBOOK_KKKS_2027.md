@@ -9,13 +9,14 @@
 
 **Mulai dari dokumen ini.** Sales tidak perlu membaca seluruh dokumen riset untuk mulai bekerja. Playbook ini merangkum konteks akun, peluang yang layak diuji, pintu masuk percakapan, dan langkah berikutnya.
 
-Dokumen lain di repositori adalah bahan pendukung. Buka hanya jika membutuhkan detail fakta, sumber, struktur buying center, atau hipotesis teknis.
+Dokumen lain di repositori adalah bahan pendukung. Buka hanya jika membutuhkan detail fakta, sumber, struktur buying center, atau hipotesis teknis. Untuk desain layanan, scope, deliverable, dan kerangka komersial PDP, gunakan [PDP Solution & Offering Architecture 2027](PDP_SOLUTION_OFFERING_ARCHITECTURE_2027.md).
 
 | Kelompok | Dokumen | Siapa yang perlu membaca | Kegunaan |
 |---|---|---|---|
 | **Bacaan utama sales** | **Sales Playbook KKKS 2027 (dokumen ini)** | Sales, Account Manager, Business Development | Ringkasan akun, strategi PDP, prioritas discovery, dan langkah komersial |
 | **Prioritas akun** | [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) | Sales Lead / Account Manager | Skor, cakupan bukti, dan urutan engagement KEI, Jadestone, Conrad/WNEL |
 | **Eksekusi pursuit** | [Account Pursuit Plan — Top 3 KKKS](KKKS_ACCOUNT_PURSUIT_PLAN_TOP3_2027.md) | Account Manager / Sales / Presales | Buying center, entry point, penawaran awal, discovery, qualification gate, dan rencana 30/60/90 hari |
+| **Arsitektur solusi** | [PDP Solution & Offering Architecture 2027](PDP_SOLUTION_OFFERING_ARCHITECTURE_2027.md) | Sales / Presales / Solution Architect / Delivery | Katalog layanan, scope, metodologi, deliverable, asumsi, batas tanggung jawab, dan kerangka estimasi |
 | Bacaan pendukung sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Account Manager / Sales Lead | Universe akun, snapshot produksi, kerangka prioritisasi |
 | Bacaan pendukung sales | [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) | Account Manager | Ringkasan profil delapan akun dan tautan profil rinci |
 | Bacaan pendukung sales | [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md) | Account Manager saat menyiapkan engagement | Peta fungsi pembeli, jalur akses, dan pertanyaan discovery |
