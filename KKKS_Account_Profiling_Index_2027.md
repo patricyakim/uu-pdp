@@ -33,3 +33,14 @@ Urutan ini merupakan rekomendasi urutan discovery, bukan ranking anggaran, kemat
 
 ## Langkah berikutnya
 Validasi stakeholder dan jalur pengadaan per akun; kumpulkan bukti primer tentang struktur organisasi, program kerja 2027, vendor yang telah terlibat, standar keamanan, serta peluang yang benar-benar memiliki sponsor dan proses anggaran.
+
+
+## Tambahan akun
+
+| Akun | Profil |
+|---|---|
+| Kangean Energy Indonesia Ltd. | [Buka profil](accounts/KKKS_Account_Profile_Kangean_Energy_2027.md) |
+| Jadestone Energy (Lemang) Pte. Ltd. | [Buka profil](accounts/KKKS_Account_Profile_Jadestone_Energy_2027.md) |
+| Conrad Asia Energy Ltd. — Duyung PSC/Mako | [Buka profil](accounts/KKKS_Account_Profile_Conrad_Energy_2027.md) |
+
+**Catatan klasifikasi:** ketiga entitas ini ditambahkan sebagai akun operator/kontraktor PSC dalam cakupan intelijen komersial. Conrad Asia Energy adalah perusahaan induk/pemegang kepentingan ekonomi; WNEL merupakan operator Duyung PSC. Jadestone Energy (Lemang) Pte. Ltd. merupakan operator Lemang PSC. KEI merupakan operator WK Kangean. Jangan menyamakan nama grup dengan nama badan hukum operator.
