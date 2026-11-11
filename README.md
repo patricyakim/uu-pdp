@@ -21,6 +21,7 @@ Sales tidak perlu membaca seluruh dokumen di repositori untuk memulai engagement
 | **Bacaan utama** | [Sales Playbook KKKS 2027](SALES_PLAYBOOK_KKKS_2027.md) | Sales / Account Manager | Titik awal dan ringkasan tindakan komersial |
 | **Prioritas akun** | [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) | Sales Lead / Account Manager | Penilaian terarah KEI, Jadestone, dan Conrad/WNEL; skor dan cakupan bukti |
 | **Eksekusi pursuit** | [Account Pursuit Plan — Top 3 KKKS](KKKS_ACCOUNT_PURSUIT_PLAN_TOP3_2027.md) | Account Manager / Sales / Presales | Buying center, entry point, penawaran awal, discovery, qualification gate, dan rencana 30/60/90 hari |
+| **Arsitektur solusi** | [PDP Solution & Offering Architecture 2027](PDP_SOLUTION_OFFERING_ARCHITECTURE_2027.md) | Sales / Presales / Solution Architect / Delivery | Definisi layanan PDP, metodologi, deliverable, batas tanggung jawab, paket modular, dan kerangka estimasi |
 | Referensi sales | [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) | Sales Lead / Account Manager | Universe akun, snapshot produksi, kerangka prioritisasi |
 | Referensi sales | [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) | Account Manager | Ringkasan profil delapan akun |
 | Referensi sales | [KKKS Buying-Center Intelligence 2027](KKKS_Buying_Center_Intelligence_2027.md) | Account Manager | Pemetaan fungsi pembeli dan jalur akses |
@@ -49,6 +50,7 @@ Repositori saat ini mencakup delapan akun:
 
 - [Master KKKS Account Prioritization Matrix 2027](KKKS_ACCOUNT_PRIORITIZATION_MATRIX_2027.md) — matriks skor khusus KEI, Jadestone, dan Conrad/WNEL.
 - [Account Pursuit Plan — Top 3 KKKS](KKKS_ACCOUNT_PURSUIT_PLAN_TOP3_2027.md) — rencana eksekusi pursuit untuk tiga akun, termasuk buying center, discovery, penawaran awal, dan rencana 30/60/90 hari.
+- [PDP Solution & Offering Architecture 2027](PDP_SOLUTION_OFFERING_ARCHITECTURE_2027.md) — katalog layanan, metodologi delivery, keluaran, batas tanggung jawab, paket modular, dan kerangka estimasi.
 - [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — universe akun, indikator produksi minyak/gas, prioritas awal, kerangka penilaian, dan rencana riset.
 - [Regulatory Intelligence Validation — UU PDP 2027](Regulatory_Intelligence_Validation_UU_PDP_2027.md) — UU PDP, putusan MK terkait, konteks sektor, validasi PP 33/2026, dan batasan klaim sales.
 - [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md) — ringkasan profil dan tautan dokumen per akun.
