@@ -482,3 +482,17 @@ Hindari:
 - [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — baseline universe akun, indikator produksi minyak dan gas, prioritas awal Tier 1/Tier 2, kerangka penilaian, hipotesis solusi, rencana riset 30 hari, dan registri sumber.
 
 - [Regulatory Intelligence Validation — UU PDP dan Hulu Migas](Regulatory_Intelligence_Validation_UU_PDP_2027.md) — status regulasi, Putusan MK 151/PUU-XXII/2024 dan 137/PUU-XXIII/2025, konteks kelembagaan SKK Migas, batas verifikasi PP 33/2026, serta panduan klaim dan discovery untuk sales.
+
+
+## Intelijen akun KKKS 2027
+
+Indeks lima profil akun prioritas dan rekomendasi discovery: [KKKS Account Profiling Index 2027](KKKS_Account_Profiling_Index_2027.md).
+
+Profil individual:
+- [Pertamina Hulu Rokan](accounts/KKKS_Account_Profile_Pertamina_Hulu_Rokan.md)
+- [ExxonMobil Cepu](accounts/KKKS_Account_Profile_ExxonMobil_Cepu.md)
+- [Pertamina EP](accounts/KKKS_Account_Profile_Pertamina_EP.md)
+- [PetroChina International Jabung](accounts/KKKS_Account_Profile_PetroChina_Jabung.md)
+- [Medco E&P Natuna](accounts/KKKS_Account_Profile_Medco_Natuna.md)
+
+Profil ini merupakan intelijen awal berbasis sumber publik per 11 November 2026. Hipotesis peluang keamanan siber dan UU PDP wajib divalidasi melalui discovery; dokumen tidak menyimpulkan adanya kelemahan, insiden, anggaran, atau tender keamanan tanpa bukti.
