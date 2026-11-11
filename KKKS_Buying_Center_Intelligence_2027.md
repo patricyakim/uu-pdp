@@ -33,3 +33,13 @@ Dokumen ini melengkapi *KKKS Account Profiling Index 2027* dengan pemetaan struk
 - CIVD SKK Migas: https://civdmigas.skkmigas.go.id/vnd/index.jwebs
 - MedcoEnergi Vendor Site: https://extranet2.medcoenergi.com/Vendorsitehome/web
 - ExxonMobil Indonesia operations: https://corporate.exxonmobil.com/locations/indonesia/our-operations
+
+
+## Tambahan akun
+
+| Akun | Titik masuk awal | Ketidakpastian utama | Profil |
+|---|---|---|---|
+| Kangean Energy Indonesia Ltd. | Procurement KEI/e-Procurement, operations, IT/OT; validasi pengaruh EMP | IT/OT leadership, budget owner, RACI KEI–EMP | [Profil KEI](accounts/KKKS_Buying_Center_Kangean_Energy_2027.md) |
+| Jadestone Energy (Lemang) Pte. Ltd. | Asset/operations Akatara dan procurement lokal; validasi grup | Kewenangan lokal versus grup dan budget owner | [Profil Jadestone](accounts/KKKS_Buying_Center_Jadestone_Energy_2027.md) |
+| Conrad Asia Energy / WNEL | Project/technical authority WNEL, Conrad, dan JV partner Nations | JV approval matrix, project security lead, budget owner | [Profil Conrad/WNEL](accounts/KKKS_Buying_Center_Conrad_Energy_2027.md) |
+
