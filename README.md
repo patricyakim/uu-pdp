@@ -524,3 +524,13 @@ Profil peluang per akun:
 - [Medco E&P Natuna](accounts/KKKS_Opportunity_Intelligence_Medco_Natuna_2027.md)
 
 Peluang diklasifikasikan sebagai sinyal pengadaan (E1), sinyal organisasi/operasi (E2), hipotesis (H), atau peluang tervalidasi (Q). Tender fisik dan operasional tidak dikategorikan sebagai tender cybersecurity. Nilai anggaran dan probabilitas kemenangan tidak dibuat tanpa bukti.
+
+
+## Tambahan akun KKKS 2027
+
+Cakupan account intelligence diperluas dengan tiga entitas:
+- [Kangean Energy Indonesia Ltd.](accounts/KKKS_Account_Profile_Kangean_Energy_2027.md)
+- [Jadestone Energy (Lemang) Pte. Ltd.](accounts/KKKS_Account_Profile_Jadestone_Energy_2027.md)
+- [Conrad Asia Energy / WNEL — Duyung PSC](accounts/KKKS_Account_Profile_Conrad_Energy_2027.md)
+
+Setiap akun dilengkapi analisis profil, buying center, dan opportunity intelligence. Indeks akun, buying center, dan peluang telah diperbarui. Perhatikan perbedaan perusahaan induk dan badan hukum operator, khususnya Conrad Asia Energy dan WNEL.
