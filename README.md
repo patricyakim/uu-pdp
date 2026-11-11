@@ -480,3 +480,5 @@ Hindari:
 ## Dokumen intelijen akun 2027
 
 - [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — baseline universe akun, indikator produksi minyak dan gas, prioritas awal Tier 1/Tier 2, kerangka penilaian, hipotesis solusi, rencana riset 30 hari, dan registri sumber.
+
+- [Regulatory Intelligence Validation — UU PDP dan Hulu Migas](Regulatory_Intelligence_Validation_UU_PDP_2027.md) — status regulasi, Putusan MK 151/PUU-XXII/2024 dan 137/PUU-XXIII/2025, konteks kelembagaan SKK Migas, batas verifikasi PP 33/2026, serta panduan klaim dan discovery untuk sales.
