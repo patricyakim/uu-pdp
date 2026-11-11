@@ -476,3 +476,7 @@ Hindari:
 **Cakupan:** Hulu minyak dan gas bumi Indonesia / KKKS  
 **Penggunaan:** Penggalian kebutuhan pelanggan, perencanaan akun, pengembangan peluang  
 **Penafian:** Bukan nasihat hukum, sertifikasi kepatuhan, atau representasi atas lingkungan kontrol KKKS tertentu.
+
+## Dokumen intelijen akun 2027
+
+- [KKKS Target Account Intelligence 2027](KKKS_Target_Account_Intelligence_2027.md) — baseline universe akun, indikator produksi minyak dan gas, prioritas awal Tier 1/Tier 2, kerangka penilaian, hipotesis solusi, rencana riset 30 hari, dan registri sumber.
